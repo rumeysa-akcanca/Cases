@@ -1,5 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
 //case
+
 //int[] sayilar = { 4, 13, 8, 9, 7, 1, 6 };
 int[] sayilar = { 16, 23, 7, 11, 3, 14};
 Array.Sort(sayilar);
